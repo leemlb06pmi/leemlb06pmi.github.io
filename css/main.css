@@ -6,8 +6,8 @@ img{
     max-width: 100%
 }
 img.sized{
-    width: 50px;
-    height: 35px;
+    width: 75px;
+    height: 60px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
