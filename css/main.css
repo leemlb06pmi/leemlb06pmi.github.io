@@ -2,6 +2,13 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+img{
+    max-width: 100%
+}
+img.sized{
+    width: 75px;
+    height: 65px;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
