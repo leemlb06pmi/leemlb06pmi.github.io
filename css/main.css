@@ -3,9 +3,7 @@ body {
     width: 70%;
 }
 img{
-    width: 100%;
-    height: auto;
-    max-width: 50vw;   
+    max-width: 80%;   
 }
 img.sized{
     max-width: 60%;
