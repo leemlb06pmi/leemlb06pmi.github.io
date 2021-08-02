@@ -1,6 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+}
+div nav ul{
+    height: 15%;
     background-color:rgba(42,94,155,0.3)
 }
 img{
