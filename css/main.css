@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+nav {
+    background-color:rgba(42,94,155,0.3)
+}
 img{
     max-width: 50%;   
 }
@@ -18,7 +21,8 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    background-color: rgba(42,94,155,0.3)
+    background-color: rgba(42,94,155,0)
+
 }
 a {
     text-decoration: none;
