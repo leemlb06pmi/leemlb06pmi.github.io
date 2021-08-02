@@ -1,8 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-}
-div nav ul {
     background-color:rgba(42,94,155,0.3)
 }
 img{
@@ -10,6 +8,9 @@ img{
 }
 img.sized{
     max-width: 60%;
+}
+div{
+    background-color: rgb(255,255,255)
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
