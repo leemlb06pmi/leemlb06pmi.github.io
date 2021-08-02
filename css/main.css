@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: rgba(42,94,155,0.3)
 }
 img{
     max-width: 50%;   
