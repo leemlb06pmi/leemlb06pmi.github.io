@@ -74,8 +74,8 @@ ul.posts li {
     display: table;
   	clear: both;
 }
-
-@media screen and (max-width: 600px) {
+/* adjusting dynamic positiong to width of iphone12 max basically */ 
+@media screen and (max-width: 1300px) {
 	.column {
    			width: 100%;
 	}
