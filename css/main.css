@@ -64,19 +64,32 @@ ul.posts li {
     list-style: none;
 }
 
-.column {
+.column.left {
 	float:left;
-	width:50%;
+	width:60%;
+}
+
+.column.right{
+	float:right;
+	width:40%;
+	background-image: background-image:url('https://leemlb06pmi.github.io/photos/rock_backdrop.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacicty:.2;
 }
 
 .row:after {
 	content: "";
-    display: table;
+    	display: table;
   	clear: both;
 }
+
 /* adjusting dynamic positiong to width of iphone12 max basically */ 
 @media screen and (max-width: 1300px) {
+	.column.left, .column.right {
+   		width: 100%;
+	},
 	.column {
-   			width: 100%;
+		width:100%;
 	}
 }
