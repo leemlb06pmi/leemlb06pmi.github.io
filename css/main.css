@@ -72,10 +72,10 @@ ul.posts li {
 .column.right{
 	float:right;
 	width:40%;
-	background-image: background-image:url('https://leemlb06pmi.github.io/photos/rock_backdrop.jpg');
+	background-image: url('https://leemlb06pmi.github.io/photos/rock_backdrop.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
-	opacicty:.2;
+	opacity:.2;
 }
 
 .row:after {
