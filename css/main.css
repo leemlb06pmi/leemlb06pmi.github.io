@@ -2,11 +2,7 @@ body, html{
     margin:0;
     width: 100%;
 }
-ul{
-    margin:auto;
-    height: 3em;
-    background-color:rgba(42,94,155,0.5)
-}
+
 img{
     display:block;
     margin:auto;   
@@ -32,10 +28,12 @@ div{
 nav {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-
-ul {
+ul{
+    	margin:auto;
+    	height: 3em;
 	list-style: none;
 	font-weight: bold;
+    	background-color:rgba(42,94,155,0.5)
 }
 
 li {
@@ -44,7 +42,8 @@ li {
 li a {
 	display: block;
 	text-decoration: none;
-    	color: rgb(20,45,70);
+    	padding: 2.5%;
+	color: rgb(20,45,70);
     	font-size: 1.75em
 }
 	
