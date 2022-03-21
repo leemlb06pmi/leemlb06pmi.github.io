@@ -15,16 +15,17 @@ div{
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 2.5%;
-    list-style: none;
-    font-weight: bold;
-    text-align: center;
+    	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    	padding: 2.5%;
+    	list-style: none;
+    	background-color:rgba(42,94,155,0.5);
+	font-weight: bold;
+    	text-align: right;
 }
 
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 10%;
+    margin-right: 2.5%;
 }
 
 /*nav {
