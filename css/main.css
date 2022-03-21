@@ -92,8 +92,11 @@ ul.posts li {
 @media screen and (max-width: 1300px) {
 	.column.left, .column.right {
    		width: 100%;
-	},
+	}
+}
+
+@media screen and (max-width: 1300px){
 	.column {
-		width:100%;
+		width: 100%;
 	}
 }
