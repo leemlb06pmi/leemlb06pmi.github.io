@@ -14,11 +14,14 @@ div{
     background-color: rgb(255,255,255)
 }
 
+nav {
+    	background-color:rgba(42,94,155,0.5);
+}
+
 nav ul, footer ul {
     	font-family:'Helvetica', 'Arial', 'Sans-Serif';
     	padding: 2.5%;
     	list-style: none;
-    	background-color:rgba(42,94,155,0.5);
 	font-weight: bold;
     	text-align: right;
 }
