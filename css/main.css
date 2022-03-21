@@ -39,9 +39,10 @@ li a:hover {
 	
 }
 h1 {
-    font-size: 2.75em;
-    font-family:'Palatino', 'Helvetica', 'Sans-Serif';
-    text-align: center;
+	margin:0;
+    	font-size: 2.75em;
+   	font-family:'Palatino', 'Helvetica', 'Sans-Serif';
+    	text-align: center;
 }
 p {
     font-size: 1.25em;
