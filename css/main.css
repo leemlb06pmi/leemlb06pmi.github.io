@@ -13,19 +13,21 @@ img.sized{
 div{
     background-color: rgb(255,255,255)
 }
-/*nav ul, footer ul {
+
+nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 5%;
+    padding: 2.5%;
     list-style: none;
     font-weight: bold;
     text-align: center;
-}*/
-/*nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}*/
+}
 
-nav {
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 10%;
+}
+
+/*nav {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 ul{
@@ -45,8 +47,9 @@ li a {
 	color: rgb(20,45,70);
     	font-size: 1.75em
 }
+*/
 	
-li a:hover {
+a:hover {
     text-decoration: underline;
 	
 }
