@@ -37,18 +37,18 @@ ul{
 }
 
 li {
-	display: inline;
 	float:right;
 li a {
-	display: block;
+	display: inline;
 	text-decoration: none;
     	padding: 2.5%;
 	color: rgb(20,45,70);
     	font-size: 1.75em
 }
 	
-a:hover {
+li a:hover {
     text-decoration: underline;
+	
 }
 h1 {
     font-size: 2.75em;
@@ -104,13 +104,7 @@ ul.posts li {
 
 /* adjusting dynamic positiong to width of iphone12 max basically */ 
 @media screen and (max-width: 1300px) {
-	.column.left, .column.right {
+	.column, .column.left, .column.right {
    		width: 100%;
-	}
-}
-
-@media screen and (max-width: 1300px){
-	.column {
-		width: 100%;
 	}
 }
