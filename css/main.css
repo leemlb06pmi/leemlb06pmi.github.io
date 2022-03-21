@@ -17,22 +17,37 @@ img.sized{
 div{
     background-color: rgb(255,255,255)
 }
-nav ul, footer ul {
+/*nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 5%;
     list-style: none;
     font-weight: bold;
     text-align: center;
-}
-nav ul li, footer ul li {
+}*/
+/*nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+}*/
+
+nav {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-a {
-    text-decoration: none;
-    color: rgb(20,45,70);
-    font-size: 1.75em
+
+ul {
+	list-style: none;
+	font-weight: bold;
 }
+
+li {
+	display: inline;
+	float:right;
+li a {
+	display: block;
+	text-decoration: none;
+    	color: rgb(20,45,70);
+    	font-size: 1.75em
+}
+	
 a:hover {
     text-decoration: underline;
 }
