@@ -10,12 +10,12 @@ img{
 
 .home{  
 	width: 100%; 
-	border-radius: 0% 15% 15% 0%;
+	border-radius: 0px 50px 50px 0px;
 }
 
 blockquote.home_oppo{
 	background-color:rgba(170,149,166,.5); 
-	border-radius: 15% 0% 15% 0%;
+	border-radius: 50px 0px 50px 0px;
 	margin:0px; 
 	padding:0px;
 }
@@ -109,6 +109,6 @@ ul.posts li {
 	.column {width:100%;}
 	.column.right {float: left; width:100%}
 	.column.left {float:left; width:100%;} 
-	img.home {border-radius:0%;}
-	.home_oppo {border-radius:0%}
+	img.home {border-radius:0px;}
+	.home_oppo {border-radius:0px;}
 }
