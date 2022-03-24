@@ -107,8 +107,8 @@ ul.posts li {
 /* adjusting dynamic positiong to width of iphone12 max basically */ 
 @media screen and (max-width: 1300px) {
 	.column {width:100%;}
-	.column.right {float: left; width:100%}
+	.column.right {float: left; width:100%;}
 	.column.left {float:left; width:100%;} 
 	img.home {border-radius:0px;}
-	.home_oppo {border-radius:0px;}
+	blockquote.home_oppo {border-radius:0px;}
 }
