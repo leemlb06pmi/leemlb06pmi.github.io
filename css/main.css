@@ -11,10 +11,15 @@ img{
 img.sized{
     max-width: 60%;
 }
+
 div{
     /*background-color: rgb(255,255,255);*/
 }
 .back {
+	
+}
+
+.back:after {
 	background-image: url("https://leemlb06pmi.github.io/photos/beach.jpg");
 	background-size: cover;
 	filter:blur(3px);
