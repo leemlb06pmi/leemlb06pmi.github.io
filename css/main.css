@@ -12,11 +12,11 @@ img.sized{
     max-width: 60%;
 }
 
-.back:before {
+.back::before {
 	content: "";
 	background: url("https://leemlb06pmi.github.io/photos/beach.jpg");
-	background-size: cover;
-	filter:blur(3px);
+	/*background-size: cover;
+	filter:blur(3px);*/
 }
 
 div.container{
@@ -95,7 +95,7 @@ ul.posts li {
 	width: 50%;
 }
 
-.row:after {
+.row::after {
 	content: "";
     	display: table;
   	clear: both;
