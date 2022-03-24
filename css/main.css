@@ -13,13 +13,12 @@ img.sized{
 }
 
 div{
-    /*background-color: rgb(255,255,255);*/
-}
-.back {
-	
 }
 
-.back:after {
+.back {		
+}
+
+.back: after {
 	content: "";
 	background-image: url("https://leemlb06pmi.github.io/photos/beach.jpg");
 	background-size: cover;
