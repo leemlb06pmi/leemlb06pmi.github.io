@@ -94,6 +94,10 @@ ul.posts li {
 	float:left;
 	width: 50%;
 }
+.column.mini{
+	float:left;
+	width:50%;
+}
 
 .row::after {
 	content: "";
