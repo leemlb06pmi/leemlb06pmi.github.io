@@ -12,9 +12,9 @@ img.sized{
     max-width: 60%;
 }
 
-.back:after {
+.back:before {
 	content: "";
-	background-image: url("https://leemlb06pmi.github.io/photos/beach.jpg");
+	background: url("https://leemlb06pmi.github.io/photos/beach.jpg");
 	background-size: cover;
 	filter:blur(3px);
 }
