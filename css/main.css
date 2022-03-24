@@ -8,8 +8,8 @@ img{
     margin:auto;   
 }
 
-img.home{
-    	width: 100%; 
+.home{  
+	width: 100%; 
 	border-radius: 0% 15% 15% 0%;
 }
 
