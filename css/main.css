@@ -12,13 +12,7 @@ img.sized{
     max-width: 60%;
 }
 
-div{
-}
-
-.back {		
-}
-
-.back: after {
+.back:after {
 	content: "";
 	background-image: url("https://leemlb06pmi.github.io/photos/beach.jpg");
 	background-size: cover;
