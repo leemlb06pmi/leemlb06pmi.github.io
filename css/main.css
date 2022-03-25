@@ -72,25 +72,39 @@ footer {
 }
 
 .button {
-	border:none;
-	color:white;
-	padding:5%;
-	width:5%;
-	height:5%;
-	box-sizing:border-box;
-	text-align:center;
+	min-width:60px;
+	max-width:120px;
 	text-decoration:none;
+	display:inline-block;
+	outline:none;
+	cursor: pointer;
+	border-style:none;
+	color:white;
+	border-radius:50%;
+	padding:5%;
+	overflow:none;
+	text-align:center;
 	font-size: 1.25em;
 	opacity:.8;
 	transition:.3s;
   	margin: 25%;
-  	cursor: pointer;
-	display:inline-block;
-	border-radius:50%;
 }
 
+.button:before {
+  content:'';
+  display:inline-block;
+  vertical-align:middle;
+  padding-top:100%;
+}
+
+span {
+  display:inline-block;
+  vertical-align:middle;
+  max-width:90%;
+}
 .b1 {
 	background-color:rgb(42,94,155);
+	box-sizing:border-box;
 }
 
 .b1:hover{
@@ -99,6 +113,7 @@ footer {
 
 .b2 {
 	background-color:rgb(225,194,174);
+	box-sizing:border-box;
 }
 
 .b2:hover{
