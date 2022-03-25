@@ -71,6 +71,29 @@ footer {
     font-size: .7em;
 }
 
+.button {
+	border:none;
+	color:white;
+	padding:5%;
+	text-align:center;
+	text-decoration:none;
+	font-size: 1.25em;
+	opacity:.8;
+	transition:.3s;
+  	margin: 50% 50%;
+  	cursor: pointer;
+	display:inline-block;
+	border-radius:50%;
+}
+
+.b1 {
+	background-color:rgb(42,94,155);
+}
+
+.b1:hover{
+	opacity:1;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.25em;
