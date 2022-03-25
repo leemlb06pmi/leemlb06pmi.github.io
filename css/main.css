@@ -14,8 +14,8 @@ img{
 }
 
 blockquote.home_oppo{
-	background-color:rgba(170,149,166,.9); 
-	border-radius: 30% 0% 30% 0%;
+	background-color:rgba(170,149,166,.75); 
+	border-radius: 50% 0% 50% 0%;
 	margin-top:5%; 
 	padding-top:5%;
 	padding-bottom:5%;
@@ -104,6 +104,7 @@ span {
 }
 .b1 {
 	background-color:rgb(42,94,155);
+	width:50%;
 	box-sizing:border-box;
 }
 
@@ -113,6 +114,7 @@ span {
 
 .b2 {
 	background-color:rgb(225,194,174);
+	width:50%;
 	box-sizing:border-box;
 }
 
