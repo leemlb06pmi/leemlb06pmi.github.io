@@ -79,7 +79,6 @@ footer {
 	outline:none;
 	cursor: pointer;
 	border-style:none;
-	color:white;
 	border-radius:50%;
 	padding:5%;
 	overflow:none;
@@ -104,6 +103,7 @@ span {
 }
 .b1 {
 	background-color:rgb(42,94,155);
+	color:white;
 	width:50%;
 	box-sizing:border-box;
 }
@@ -114,6 +114,7 @@ span {
 
 .b2 {
 	background-color:rgb(225,194,174);
+	color: rgb(42,94,155);
 	width:50%;
 	box-sizing:border-box;
 }
@@ -123,6 +124,7 @@ span {
 }
 .b3 {
 	background-color:rgb(184,211,222);
+	color:black;
 	width:50%;
 	box-sizing:border-box;
 }
