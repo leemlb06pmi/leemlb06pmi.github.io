@@ -152,6 +152,16 @@ ul.posts li {
 	width:60%;
 }
 
+.column.65left {
+	float:left;
+	width:65%;
+}
+
+.column.35right{
+	float:right;
+	width:35%;
+}
+
 .column{
 	float:left;
 	width: 50%;
