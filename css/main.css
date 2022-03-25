@@ -12,10 +12,10 @@ img{
 	position:relative;
 }
 
-.bottomLeft{
+.bottomCenter{
 	position:absolute;
-	bottom:2%;
-	left:.5%;
+	bottom:.5%;
+	left:32.5%;
 	font-size:1em;
 	color:white;
 }
