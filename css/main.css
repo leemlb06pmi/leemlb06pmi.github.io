@@ -67,7 +67,8 @@ blockquote.home_oppo{
 
 .back{
 	background-image: url("https://leemlb06pmi.github.io/photos/beach.jpg");
-	background-size: cover;
+	background-size:100%;
+	background-repeat:none;
 }
 
 nav ul {
