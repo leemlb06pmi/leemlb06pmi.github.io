@@ -8,6 +8,18 @@ img{
     margin:auto;   
 }
 
+.picContain{
+	position:relative;
+}
+
+.bottomLeft{
+	position:absolute;
+	bottom:2%;
+	left:.5%;
+	font-size:1em;
+	color:white;
+}
+
 .home{  
 	padding: 5% 5% 0% 5%; 
 	width:100%;
