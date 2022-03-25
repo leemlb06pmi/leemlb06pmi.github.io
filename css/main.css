@@ -121,6 +121,15 @@ span {
 .b2:hover{
 	opacity:1;
 }
+.b3 {
+	background-color:rgb(213,174,223);
+	width:50%;
+	box-sizing:border-box;
+}
+
+.b3:hover{
+	opacity:1;
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.25em;
