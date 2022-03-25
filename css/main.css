@@ -75,6 +75,9 @@ footer {
 	border:none;
 	color:white;
 	padding:5%;
+	width:5%;
+	height:5%;
+	box-sizing:border-box;
 	text-align:center;
 	text-decoration:none;
 	font-size: 1.25em;
