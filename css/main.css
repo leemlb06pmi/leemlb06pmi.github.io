@@ -126,7 +126,7 @@ ul.posts li {
 }
 .column.mini{
 	float:left;
-	width:50%;
+	width:33.33%;
 }
 
 .row::after {
