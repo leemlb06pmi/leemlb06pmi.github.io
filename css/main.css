@@ -103,12 +103,13 @@ li a:hover {
 h1 {
 	margin:0;
     	font-size: 2.75em;
-   	font-family:'Palatino', 'Helvetica', 'Sans-Serif';
+	letter-spacing:1.5em;
+   	font-family:'Bradley Hand', 'Palatino','Cursive';
     	text-align: center;
 }
 p {
     font-size: 1.25em;
-    font-family:'Palatino', 'Helvetica', 'Sans-Serif';
+    font-family:'Optima', 'Palatino', 'Sans-Serif';
     line-height: 1.2em;
     color: #333;
     margin:auto;
