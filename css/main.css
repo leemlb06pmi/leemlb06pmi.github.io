@@ -148,6 +148,7 @@ span {
 .b1 {
 	background-color:rgb(42,94,155);
 	color:white;
+	margin-left:50%;
 	width:50%;
 	box-sizing:border-box;
 }
@@ -169,6 +170,7 @@ span {
 .b3 {
 	background-color:rgb(184,211,222);
 	color:black;
+	margin-left:5%;
 	width:50%;
 	box-sizing:border-box;
 }
