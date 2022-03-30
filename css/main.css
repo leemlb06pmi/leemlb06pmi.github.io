@@ -31,6 +31,12 @@ img{
 	width:70%;
 }
 
+.picContainActive2{
+	position:relative;
+	margin:0% 15%;
+	width:95%;
+}
+
 .imageFadeWText{
 	opacity: 1;
   	display: block;
