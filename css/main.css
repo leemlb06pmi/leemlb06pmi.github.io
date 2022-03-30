@@ -77,31 +77,6 @@ blockquote.home_oppo{
 	background-position: top;*/
 }
 
-nav ul {
-	background-color:rgba(255,255,255,0)
-    	font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    	padding: 2.5%;
-	margin: auto;
-    	list-style: none;
-	font-weight: bold;
-    	text-align: right;
-}
-
-nav ul li {
-    	display: inline;
-    	margin-right: 2.5%;
-}
-
-li a:link {
-	color: rgb(20,45,70);
-	text-decoration:none;
-	font-size: 1.5em;
-}
-	
-li a:hover {
-    text-decoration: underline;
-	
-}
 h1 {
 	margin: 0%;
     	font-size: 3.75em;
@@ -253,3 +228,28 @@ ul.posts li {
 	.shadowBox{border-radius:0%;width:90%; object-position:50% 50%;}
 	blockquote.home_oppo {border-radius:0%; margin:2.5% 0% 0% 0%;}
 }
+
+/*nav ul {
+	background-color:rgba(255,255,255,0)
+    	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    	padding: 2.5%;
+	margin: auto;
+    	list-style: none;
+	font-weight: bold;
+    	text-align: right;
+}
+
+nav ul li {
+    	display: inline;
+    	margin-right: 2.5%;
+}
+
+li a:link {
+	color: rgb(20,45,70);
+	text-decoration:none;
+	font-size: 1.5em;
+}
+	
+li a:hover {
+    text-decoration: underline;
+}*/
