@@ -87,7 +87,7 @@ h1 {
 
 small.subHead{
 	margin: 0%;
-	padding-top:1.25%;
+	padding-top:.125em;
 	border-top: solid;
 	text-align: center;
 	font-family:'Georgia, serif', 'Palatino';
