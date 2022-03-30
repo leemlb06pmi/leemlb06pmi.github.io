@@ -78,6 +78,7 @@ blockquote.home_oppo{
 }
 
 h1 {
+	padding:1.5%;
 	margin: 0%;
     	font-size: 3.75em;
 	letter-spacing:.4em;
@@ -87,7 +88,6 @@ h1 {
 
 small.subHead{
 	margin: 0%;
-	padding-top:.125em;
 	border-top: solid;
 	text-align: center;
 	font-family:'Georgia, serif', 'Palatino';
