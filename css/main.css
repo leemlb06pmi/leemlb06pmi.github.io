@@ -101,7 +101,7 @@ li a:hover {
 	
 }
 h1 {
-	margin:.15%;
+	margin: 0%;
     	font-size: 2.75em;
 	letter-spacing:.5em;
    	font-family:'Georgia, serif', 'Palatino';
@@ -109,11 +109,12 @@ h1 {
 }
 
 h2{
-	margin.15%;
+	margin: 0%;
 	text-align: center;
 	font-family:'Georgia, serif', 'Palatino';
 	font-size: 2.25em;
 	letter-spacing:.25em;
+	padding: 0% 0% 2.5% 0%;
 }
 
 p {
