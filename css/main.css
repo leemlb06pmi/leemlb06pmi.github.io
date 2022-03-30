@@ -238,7 +238,7 @@ ul.posts li {
 }
 
 /* adjusting dynamic positiong to width of iphone12 max basically */ 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 40em) {
 	.column {width:100%;}
 	.column.right {float: left; width:100%;}
 	.column.left {float:left; width:100%;} 
