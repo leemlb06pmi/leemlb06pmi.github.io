@@ -249,6 +249,7 @@ ul.posts li {
 	.column {width:100%;}
 	.column.right {float: left; width:100%;}
 	.column.left {float:left; width:100%;} 
-	img.home {border-radius:0%; object-fit:cover; width:90%; object-position:50% 50%;}
+	img.home {border-radius:0%; object-fit:cover;}
+	.shadowBox{border-radius:0%;width:90%; object-position:50% 50%;}
 	blockquote.home_oppo {border-radius:0%; margin:2.5% 0% 0% 0%;}
 }
