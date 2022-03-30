@@ -104,12 +104,12 @@ h1 {
 	margin:0;
     	font-size: 2.75em;
 	letter-spacing:1.5em;
-   	font-family:'Bradley Hand', 'Palatino','Cursive';
+   	font-family:'Georgia, serif', 'Palatino';
     	text-align: center;
 }
 p {
     font-size: 1.25em;
-    font-family:'Optima', 'Palatino', 'Sans-Serif';
+    font-family:'Optima', 'Palatino';
     line-height: 1.2em;
     color: #333;
     margin:auto;
