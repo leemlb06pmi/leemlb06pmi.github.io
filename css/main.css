@@ -67,10 +67,10 @@ blockquote.home_oppo{
 
 .back{
 	background-image: url("https://leemlb06pmi.github.io/photos/beach.jpg"), 
-		url("https://leemlb06pmi.github.io/photos/rock_backdrop.jpg"),
+		/*url("https://leemlb06pmi.github.io/photos/rock_backdrop.jpg"),*/
 		linear-gradient(90deg, rgb(20,45,70), rgb(184,211,222));
 	background-position: top middle bottom;
-	background-size:100% auto;
+	background-size:100% auto, 100% auto;
 	background-repeat:no-repeat;
 }
 
