@@ -33,7 +33,7 @@ img{
 
 .picContainActive2{
 	position:relative;
-	margin:0% 15%;
+	margin:2.5%;
 	width:95%;
 }
 
@@ -61,6 +61,14 @@ img{
 }
 
 .picContainActive:hover .textTrans {
+	opacity: 1.0;
+}
+
+.picContainActive2:hover .imageFadeWText {
+	opacity: 0.3;
+}
+
+.picContainActive2:hover .textTrans {
 	opacity: 1.0;
 }
 
@@ -230,7 +238,7 @@ ul.posts li {
 }
 
 /* adjusting dynamic positiong to width of iphone12 max basically */ 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 800px) {
 	.column {width:100%;}
 	.column.right {float: left; width:100%;}
 	.column.left {float:left; width:100%;} 
