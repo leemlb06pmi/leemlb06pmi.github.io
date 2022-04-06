@@ -132,6 +132,8 @@ footer {
 .button {
 	min-width:60px;
 	max-width:120px;
+	background-color:rgb(218,222,226);
+	color:black;
 	text-decoration:none;
 	display:inline-block;
 	outline:none;
@@ -160,8 +162,6 @@ span {
   max-width:90%;
 }
 .b1 {
-	background-color:rgb(42,94,155);
-	color:white;
 	margin-left:50%;
 	width:50%;
 	box-sizing:border-box;
@@ -172,8 +172,6 @@ span {
 }
 
 .b2 {
-	background-color:rgb(225,194,174);
-	color: rgb(42,94,155);
 	width:50%;
 	box-sizing:border-box;
 }
@@ -182,8 +180,6 @@ span {
 	opacity:1;
 }
 .b3 {
-	background-color:rgb(184,211,222);
-	color:black;
 	margin-left:5%;
 	width:50%;
 	box-sizing:border-box;
